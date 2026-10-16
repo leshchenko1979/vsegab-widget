@@ -485,7 +485,7 @@
 
   
 var LIVE_FEED_URL = "https://yadi.sk/d/7rHq2A1btoTN0w";
-var LIVE_FEED_FALLBACK = "https://files.catbox.moe/yq6yzp.json";
+var LIVE_FEED_FALLBACK = "https://cdn.jsdelivr.net/gh/leshchenko1979/vsegab-widget@main/vsegab_objects_fallback.json";
 var YADISK_DOWNLOAD_API = 'https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=';
 var notice = function (msg, retry) {
   var root = el('div');
